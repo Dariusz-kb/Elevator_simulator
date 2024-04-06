@@ -6,4 +6,4 @@ A simple elevator simulator takes a user entry of number of floors and a number 
      Elevator starts at ground floor moving up and picking up costumers and letting them out on their destination
       floors. Once the costumer have used a elevator its removed from a costumer list. When Lift reaches a top floor
       a direction is being changed and elevator moves down floor by floor.The simulation ends when all the costumers
-      use an elevator
+      use an elevator.
